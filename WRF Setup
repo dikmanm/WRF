@@ -1,0 +1,9 @@
+Currently I am working on the various climate models to understand how urban green space relate to urban climates. I am using one of the mesoscale models, which is WRF. Here, I provide a useful link that I used to setup my model on Ubuntu LTS 16.04. This page gives a detail yet simple step by step procedure in installing WRF and WPS. The tutorial was written for WRF 3.8 but It can be used for the new WRF 3.9.
+
+We need to have libnetcdf-dev
+
+https://www.enviroware.com/installing-and-running-wrf-3-8-on-linux-ubuntu-lts-16-04-with-intel-i7-8-core-cpu/
+
+I also refer to official website of WRF to setup the model
+
+http://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php#STEP5
